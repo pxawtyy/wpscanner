@@ -1,5 +1,5 @@
 # wpscanner
-WP Scanner from GH0STH4CKER, translated to pt-BR and with some optimization.
+WordPress Scanner de GH0STH4CKER, traduzido para pt-BR e com otimizações.
 
 ## Instalação
 
