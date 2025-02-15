@@ -21,8 +21,11 @@ __Caso o script não encontre os detalhes, pode ser que o site esteja protegido 
 **Todos os créditos** para **GH0STH4CKER,** criador da ferramenta.
 
 <ul>
-<strong>Repositório original:</strong> <href> https://github.com/GH0STH4CKER/WP_Scanner </href>
-<strong>Criador:</strong> <href> https://github.com/GH0STH4CKER </href>
+  <li>
+    <strong>Repositório original:</strong> <href> https://github.com/GH0STH4CKER/WP_Scanner </href> </li>
+  <li>
+    <strong>Criador:</strong> <href> https://github.com/GH0STH4CKER </href>
+  </li>
 </ul>
 
 O autor deste repositório e o autor do repositório original não são responsáveis por qualquer dano ou irresponsabilidade em virtude do uso dessa ferramenta. Ao usar este software, você aceita assumir todos os riscos criados por ele.
