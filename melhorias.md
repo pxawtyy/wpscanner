@@ -9,7 +9,7 @@
 	<li> <strong>Má formatação</strong> de mensagens. </li>
 </ul>
 
-### Adicionado:
+### Adicionado/melhorado:
 
 <ul>
 	<li> <strong>requests.Session()</strong>, substituindo o uso de vários <strong>requests.get()</strong>.</li>
@@ -17,4 +17,5 @@
 	<li> Caso a versão do WordPress não apareça no <strong>xml</strong>, procura no <strong>HTML</strong>. </li>
 	<li> Correção na detecção do <strong>painel admin</strong>. </li>
 	<li> Melhoria na <strong>listagem de plugins</strong>. </li>
+	<li> <strong>Encerramento automático</strong> do script ao terminar.</li>
 </ul>
